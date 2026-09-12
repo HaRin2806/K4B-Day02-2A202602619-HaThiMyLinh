@@ -26,41 +26,21 @@
 
 | # | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh của nhóm |
 |---|---|---|---|---|---|
-| 1 |Nguyễn Viết Đức | Mỗi ngày tôi phải check email, Discord và Outlook để cập nhật lịch học, deadline và thông báo workshop, nhưng thông tin nằm rải rác nên dễ mất thời gian hoặc bỏ sót việc quan trọng.
- | Bản thân tôi, sinh viên/học viên có lịch học trực tiếp và workshop thay đổi theo ngày.
-|Bước 5 — tự tổng hợp lịch/deadline từ nhiều nguồn khác nhau.
- |Pain rõ, lặp lại mỗi ngày, dễ đo thời gian và có rủi ro bỏ sót thông tin quan trọng.
-|
-| 2 |Nguyễn Viết Đức | Trong ngày học, tôi vẫn phải check Zalo để phản hồi và chăm sóc khách hàng, nhưng tin nhắn đến rải rác nên dễ phản hồi chậm hoặc mất thời gian nhớ lại context.
- |Tôi và khách hàng đang cần được hỗ trợ. | Bước 3 — đọc lại lịch sử trao đổi để nhớ context của từng khách hàng.
- |Có impact thật vì ảnh hưởng trực tiếp tới khách hàng, nhưng cần boundary rõ để AI không tự trả lời sai.
- |
-| 3 |Nguyễn Viết Đức |Sau một ngày học từ 9h đến 18h, tôi thường mất thời gian để nhớ lại hôm nay đã học gì và tối nên ưu tiên học workshop phần nào.
- |Bản thân tôi, người phải học cả ban ngày và tiếp tục học workshop hoặc làm bài vào buổi tối.
- | Bước 5-6 — đọc lại tài liệu và tự chọn ưu tiên học khi đã mệt sau cả ngày.
- |Gắn trực tiếp với hiệu quả học tập, workflow rõ, AI có thể hỗ trợ tóm tắt nhưng vẫn cần tôi review.
- |
+| 1 |Nguyễn Viết Đức | Mỗi ngày tôi phải check email, Discord và Outlook để cập nhật lịch học, deadline và thông báo workshop, nhưng thông tin nằm rải rác nên dễ mất thời gian hoặc bỏ sót việc quan trọng.| Bản thân tôi, sinh viên/học viên có lịch học trực tiếp và workshop thay đổi theo ngày.|Bước 5 — tự tổng hợp lịch/deadline từ nhiều nguồn khác nhau. |Pain rõ, lặp lại mỗi ngày, dễ đo thời gian và có rủi ro bỏ sót thông tin quan trọng.|
+| 2 |Nguyễn Viết Đức | Trong ngày học, tôi vẫn phải check Zalo để phản hồi và chăm sóc khách hàng, nhưng tin nhắn đến rải rác nên dễ phản hồi chậm hoặc mất thời gian nhớ lại context. |Tôi và khách hàng đang cần được hỗ trợ. | Bước 3 — đọc lại lịch sử trao đổi để nhớ context của từng khách hàng. |Có impact thật vì ảnh hưởng trực tiếp tới khách hàng, nhưng cần boundary rõ để AI không tự trả lời sai. |
+| 3 |Nguyễn Viết Đức |Sau một ngày học từ 9h đến 18h, tôi thường mất thời gian để nhớ lại hôm nay đã học gì và tối nên ưu tiên học workshop phần nào. |Bản thân tôi, người phải học cả ban ngày và tiếp tục học workshop hoặc làm bài vào buổi tối. | Bước 5-6 — đọc lại tài liệu và tự chọn ưu tiên học khi đã mệt sau cả ngày. |Gắn trực tiếp với hiệu quả học tập, workflow rõ, AI có thể hỗ trợ tóm tắt nhưng vẫn cần tôi review. |
 | 4 |Dương Văn Thành| Mỗi tuần phải tổng hợp và viết báo cáo công việc thực tập cho AIRC và nhà trường từ các công việc đã thực hiện | AI Intern| Bước 3-4 — tổng hợp thông tin và chuyển các ghi chú/công việc đã làm thành nội dung báo cáo có cấu trúc, rõ ràng và đủ thông tin.| Problem có tính lặp lại rõ ràng, workflow dễ xác định và có bottleneck cụ thể ở khâu tổng hợp/viết nội dung. Có thể đo thời gian hoàn thành và số lần chỉnh sửa, phù hợp để nghiên cứu giải pháp Workflow có hỗ trợ AI.|
 | 5 |Dương Văn Thành| Khi viết tài liệu nghiên cứu, khó nhanh chóng tóm tắt và hệ thống hóa thông tin kỹ thuật thành cấu trúc dễ đọc | AI Intern / người đọc tài liệu | Bước 2-4 — chọn thông tin quan trọng, sắp xếp thành cấu trúc hợp lý và chuyển nội dung kỹ thuật thành tài liệu dễ đọc.| Có pain thực tế trong công việc nghiên cứu và AI có khả năng hỗ trợ tốt ở bước tóm tắt, phân loại và cấu trúc thông tin. Tuy nhiên cần kiểm chứng chất lượng nội dung vì AI có thể tóm tắt sai hoặc làm mất thông tin kỹ thuật quan trọng. |
 | 6 |Dương Văn Thành| Kiểm thử invoice phải đối chiếu ảnh JPG với JSON output, kiểm tra từng trường thông tin có khớp hay không | AI Intern / nhóm phát triển | Bước 3-4 — đối chiếu thủ công từng trường giữa ảnh JPG và JSON, sau đó ghi nhận chính xác các trường hợp không khớp.| Workflow và bottleneck rất cụ thể, dễ xác định input/output và đo hiệu quả theo thời gian kiểm thử, số trường kiểm tra hoặc tỷ lệ mismatch bị bỏ sót. Có thể thử Rule/Workflow trước, sau đó mới đánh giá mức độ cần thiết của AI. |
 | 7 |Nguyễn Hoàng Anh|Khi gặp lỗi trong quá trình lập trình, phải tìm kiếm nhiều nguồn và thử nhiều cách trước khi xác định nguyên nhân. |Sinh viên lập trình / người làm đồ án|Tìm nguyên nhân và đối chiếu nhiều hướng xử lý.|Workflow rõ, pain thường xuyên, có thể đo thời gian debug; cần kiểm tra AI có thực sự tốt hơn checklist hay không.|
 | 8 |Nguyễn Hoàng Anh|Khi xây dựng và chuẩn bị dữ liệu cho đồ án, phải kiểm tra, chỉnh sửa và bổ sung dữ liệu theo từng nhóm trước khi đưa vào model.|Sinh viên / người phụ trách dataset|Kiểm tra từng mẫu và phát hiện dữ liệu sai, thiếu hoặc không phù hợp.|Có nhiều bước lặp lại, dễ đo thời gian; cần xác định phần nào Rule đã giải quyết được và AI thực sự cần thiết ở đâu.|
 | 9 |Nguyễn Hoàng Anh|Khi gặp vấn đề kỹ thuật, phải tìm lại thông tin từ nhiều nguồn như Google, GitHub và documentation trước khi xác định cách xử lý phù hợp.|Sinh viên lập trình / người làm đồ án|Đọc và đối chiếu nhiều nguồn thông tin.|Pain khá rõ và AI có khả năng hỗ trợ; cần kiểm tra vấn đề nằm ở search hay ở việc đánh giá thông tin phù hợp với project.|
-| 10 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 120 phút để tổng hợp, phân tích dữ liệu từ Sapo và Google Sheets, research thông tin bên ngoài, tìm insight và viết Weekly Report cho Manager và CEO; trong đó khoảng 60 phút tập trung vào analysis, research và writing
- |Linh - DA |Bước 3-6, đặc biệt là research → tìm insight → viết narrative, chiếm khoảng 80 phút nếu tính cả analysis, research và writing. Đây là phần khó chuẩn hóa hoàn toàn bằng rule vì mỗi tuần có thể xuất hiện những biến động khác nhau.
- | Nhóm nhận thấy đây là công việc có giá trị cao nhưng tiêu tốn khá nhiều thời gian do đòi hỏi sự kết hợp giữa phân tích dữ liệu, research và khả năng tổng hợp insight. Đặc biệt, phần viết narrative phụ thuộc nhiều vào bối cảnh và judgment của người thực hiện, vì vậy có tiềm năng ứng dụng AI để hỗ trợ nhưng vẫn cần sự kiểm tra và đánh giá của con người. |
-| 11 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 35 phút để research Internet nhằm tìm context và nguyên nhân giải thích cho các biến động trong dữ liệu kinh doanh.
- |DA |Bước 3-4: tìm kiếm và đọc nhiều nguồn để xác định thông tin nào thực sự liên quan.
- | Nhóm nhận thấy việc research Internet đang chiếm một lượng thời gian đáng kể và phần lớn thời gian được sử dụng để sàng lọc, đối chiếu và xác định mức độ liên quan của thông tin. Đây là công đoạn có tiềm năng cải thiện rõ rệt nếu có công cụ hỗ trợ tìm kiếm và tổng hợp context phù hợp. |
-| 12 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 30 phút để kiểm tra và đối chiếu dữ liệu giữa Sapo và Google Sheets trước khi sử dụng cho Weekly Report.
- |DA | Bước 3-4: đối chiếu thủ công và tìm discrepancy giữa hai nguồn.
-| Nhóm nhận thấy việc đối chiếu dữ liệu giữa Sapo và Google Sheets đang được thực hiện thủ công, vừa tốn thời gian vừa có khả năng phát sinh sai sót. Đây là công đoạn tương đối có cấu trúc, do đó có tiềm năng cao để tự động hóa việc kiểm tra discrepancy và giảm thời gian xử lý hàng tuần. |
-| 13 |Vũ Đức Thiện |mất nhiều thời gian tìm lại tài liệu, link hoặc file đã xem trước đó nhưng không nhớ lưu ở đâu.
- |sinh viên |Phải tìm thủ công qua nhiều nơi và mở từng kết quả để kiểm tra vì không nhớ chính xác tên/vị trí tài liệu.  |Đây là vấn đề khá thực tế vì tài liệu thường nằm rải rác ở nhiều nơi. Điểm nghẽn rõ, xảy ra lặp lại và có khả năng cải thiện tốt bằng tìm kiếm thông minh/AI.  |
-| 14 |Vũ Đức Thiện |phải tua hoặc xem lại video bài giảng dài để tìm đúng đoạn chứa thông tin cần thiết.
- |sinh viên |Phải tua và xem thử nhiều đoạn vì video không thể tìm trực tiếp theo nội dung/câu hỏi.  |Vấn đề dễ hiểu và dễ đo lường vì người học thường phải tua video nhiều lần để tìm đúng nội dung. AI có tiềm năng giảm đáng kể thời gian tìm kiếm nếu có transcript và timestamp.  |
-| 15 |Vũ Đức Thiện |phải kiểm tra nhiều nhóm Discord/Facebook/Zalo để không bỏ sót thông báo học tập quan trọng.
- |sinh viên |Phải tự đọc và lọc nhiều thông báo từ nhiều nền tảng để xác định cái nào quan trọng.  |Đây là vấn đề có tác động khá lớn vì thông báo học tập đến từ nhiều nền tảng và dễ bị bỏ sót. Tuy nhiên cần chú ý khả năng truy cập dữ liệu và quyền riêng tư khi muốn tự động hóa bằng AI.  |
+| 10 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 120 phút để tổng hợp, phân tích dữ liệu từ Sapo và Google Sheets, research thông tin bên ngoài, tìm insight và viết Weekly Report cho Manager và CEO; trong đó khoảng 60 phút tập trung vào analysis, research và writing. |Linh - DA |Bước 3-6, đặc biệt là research → tìm insight → viết narrative, chiếm khoảng 80 phút nếu tính cả analysis, research và writing. Đây là phần khó chuẩn hóa hoàn toàn bằng rule vì mỗi tuần có thể xuất hiện những biến động khác nhau. | Nhóm nhận thấy đây là công việc có giá trị cao nhưng tiêu tốn khá nhiều thời gian do đòi hỏi sự kết hợp giữa phân tích dữ liệu, research và khả năng tổng hợp insight. Đặc biệt, phần viết narrative phụ thuộc nhiều vào bối cảnh và judgment của người thực hiện, vì vậy có tiềm năng ứng dụng AI để hỗ trợ nhưng vẫn cần sự kiểm tra và đánh giá của con người. |
+| 11 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 35 phút để research Internet nhằm tìm context và nguyên nhân giải thích cho các biến động trong dữ liệu kinh doanh. |DA |Bước 3-4: tìm kiếm và đọc nhiều nguồn để xác định thông tin nào thực sự liên quan. | Nhóm nhận thấy việc research Internet đang chiếm một lượng thời gian đáng kể và phần lớn thời gian được sử dụng để sàng lọc, đối chiếu và xác định mức độ liên quan của thông tin. Đây là công đoạn có tiềm năng cải thiện rõ rệt nếu có công cụ hỗ trợ tìm kiếm và tổng hợp context phù hợp. |
+| 12 |Hà Thị Mỹ Linh|Mỗi tuần Linh mất khoảng 30 phút để kiểm tra và đối chiếu dữ liệu giữa Sapo và Google Sheets trước khi sử dụng cho Weekly Report. |DA | Bước 3-4: đối chiếu thủ công và tìm discrepancy giữa hai nguồn.| Nhóm nhận thấy việc đối chiếu dữ liệu giữa Sapo và Google Sheets đang được thực hiện thủ công, vừa tốn thời gian vừa có khả năng phát sinh sai sót. Đây là công đoạn tương đối có cấu trúc, do đó có tiềm năng cao để tự động hóa việc kiểm tra discrepancy và giảm thời gian xử lý hàng tuần. |
+| 13 |Vũ Đức Thiện |mất nhiều thời gian tìm lại tài liệu, link hoặc file đã xem trước đó nhưng không nhớ lưu ở đâu. |sinh viên |Phải tìm thủ công qua nhiều nơi và mở từng kết quả để kiểm tra vì không nhớ chính xác tên/vị trí tài liệu. |Đây là vấn đề khá thực tế vì tài liệu thường nằm rải rác ở nhiều nơi. Điểm nghẽn rõ, xảy ra lặp lại và có khả năng cải thiện tốt bằng tìm kiếm thông minh/AI.  |
+| 14 |Vũ Đức Thiện |phải tua hoặc xem lại video bài giảng dài để tìm đúng đoạn chứa thông tin cần thiết. |sinh viên |Phải tua và xem thử nhiều đoạn vì video không thể tìm trực tiếp theo nội dung/câu hỏi.  |Vấn đề dễ hiểu và dễ đo lường vì người học thường phải tua video nhiều lần để tìm đúng nội dung. AI có tiềm năng giảm đáng kể thời gian tìm kiếm nếu có transcript và timestamp.  |
+| 15 |Vũ Đức Thiện |phải kiểm tra nhiều nhóm Discord/Facebook/Zalo để không bỏ sót thông báo học tập quan trọng. |sinh viên |Phải tự đọc và lọc nhiều thông báo từ nhiều nền tảng để xác định cái nào quan trọng.  |Đây là vấn đề có tác động khá lớn vì thông báo học tập đến từ nhiều nền tảng và dễ bị bỏ sót. Tuy nhiên cần chú ý khả năng truy cập dữ liệu và quyền riêng tư khi muốn tự động hóa bằng AI.  |
 | 16 | Tống Trần Tiến Dũng | Đọc tài liệu, Phân loại Requirement / Action / Question sau mỗi meeting | Intern BA | Đọc lại toàn bộ notes và Tìm các thông tin quan trọng, Phân loại: Requirement, Action Item, Open Question, Context, Format lại tài liệu | Đây là problem có workflow rõ, lặp lại thường xuyên và có khả năng thử nghiệm AI tương đối tốt |
 | 17 | Tống Trần Tiến Dũng | chuẩn bị draft User Story để BA chính review. từ tài liệu ghi chép sau mỗi cuộc họp | Intern BA, Senior BA | phải chuyển thông tin từ format tự do sang format User Story | Problem có tính thực tế và AI có thể hỗ trợ tốt ở bước tạo draft, nhưng cần human review chặt chẽ vì việc tự động hóa quá sâu có thể làm thay đổi business context.  |
 | 18 | Tống Trần Tiến Dũng | Tìm Requirement cũ để tìm các tài liệu và giải pháp liên quan | Thông tin nằm ở nhiều nguồn  | Intern BA | Problem có pain point rõ và tiềm năng ứng dụng AI cao, nhưng cần giới hạn scope để có thể prototype trong thời gian ngắn |
@@ -113,7 +93,8 @@ Không chọn #16 — Đọc tài liệu, phân loại Requirement / Action / Qu
 
 **Disagreement (nếu có — ai lo gì, chốt ra sao):**
 
-```Ban đầu nhóm phân vân giữa #6 và #10 vì cả hai đều có điểm cao và workflow rõ. Một số thành viên nghiêng về #10 vì impact business lớn hơn, nhưng nhóm lo scope quá rộng và khó đo chất lượng insight trong lab. Cuối cùng nhóm chốt #6 vì input/output rõ hơn, dễ kiểm thử với mẫu nhỏ, dễ đo thời gian và dễ xác định AI nên can thiệp ở bước nào. Nhóm thống nhất giữ #10 như một candidate tốt nhưng chưa chọn cho scope hôm nay.
+```
+Ban đầu nhóm phân vân giữa #6 và #10 vì cả hai đều có điểm cao và workflow rõ. Một số thành viên nghiêng về #10 vì impact business lớn hơn, nhưng nhóm lo scope quá rộng và khó đo chất lượng insight trong lab. Cuối cùng nhóm chốt #6 vì input/output rõ hơn, dễ kiểm thử với mẫu nhỏ, dễ đo thời gian và dễ xác định AI nên can thiệp ở bước nào. Nhóm thống nhất giữ #10 như một candidate tốt nhưng chưa chọn cho scope hôm nay.
 
 ```
 
@@ -131,7 +112,8 @@ Không chọn #16 — Đọc tài liệu, phân loại Requirement / Action / Qu
 
 **Insight sau validation (1-2 câu — pain thật nằm ở đâu):**
 
-```Pain thật không nằm ở việc có ảnh invoice hay có JSON output, mà nằm ở bước người kiểm thử phải tự đối chiếu từng field giữa hai nguồn và phát hiện mismatch thủ công. Đây là bước lặp lại, tốn thời gian, dễ mỏi mắt và dễ bỏ sót lỗi nhỏ nếu invoice có nhiều trường thông tin.
+```
+Pain thật không nằm ở việc có ảnh invoice hay có JSON output, mà nằm ở bước người kiểm thử phải tự đối chiếu từng field giữa hai nguồn và phát hiện mismatch thủ công. Đây là bước lặp lại, tốn thời gian, dễ mỏi mắt và dễ bỏ sót lỗi nhỏ nếu invoice có nhiều trường thông tin.
 
 ```
 
@@ -237,13 +219,15 @@ Fallback: nếu AI/OCR đọc sai ảnh, confidence thấp hoặc mismatch repor
 
 **Bài toán nhóm nằm ở ô nào:**
 
-```Độ mơ hồ thấp, độ phức tạp trung bình/cao.
+```
+Độ mơ hồ thấp, độ phức tạp trung bình/cao.
 
 ```
 
 **Vì sao (2-3 câu):**
 
-```Bài toán có tiêu chí đúng/sai rõ vì value trong JSON phải khớp với thông tin trên ảnh invoice. Tuy nhiên workflow không chỉ là một rule đơn giản vì cần đọc ảnh, extract field, chuẩn hóa format và so sánh với JSON. Vì vậy hướng phù hợp là Workflow có AI/OCR hỗ trợ bước đọc invoice, kết hợp rule/script để compare và người thật review.
+```
+Bài toán có tiêu chí đúng/sai rõ vì value trong JSON phải khớp với thông tin trên ảnh invoice. Tuy nhiên workflow không chỉ là một rule đơn giản vì cần đọc ảnh, extract field, chuẩn hóa format và so sánh với JSON. Vì vậy hướng phù hợp là Workflow có AI/OCR hỗ trợ bước đọc invoice, kết hợp rule/script để compare và người thật review.
 
 ```
 
@@ -269,18 +253,21 @@ Có. Nhóm hạ từ Agent xuống Workflow vì chưa cần tự động hóa to
 
 **Mức chọn:**
 
-```Workflow
+```
+Workflow
 ```
 
 **Vì sao chọn (3-4 câu):**
 
-```Nhóm chọn Workflow vì bài toán có nhiều bước rõ ràng nhưng không cần AI tự lập kế hoạch. AI/OCR chỉ hỗ trợ đọc và extract thông tin từ ảnh invoice, còn rule/script xử lý phần so sánh có logic rõ. Người kiểm thử vẫn review mismatch report trước khi báo lỗi, nên risk AI sai được kiểm soát. Workflow giúp giảm thời gian đối chiếu thủ công mà không trao toàn bộ quyết định cho AI.
+```
+Nhóm chọn Workflow vì bài toán có nhiều bước rõ ràng nhưng không cần AI tự lập kế hoạch. AI/OCR chỉ hỗ trợ đọc và extract thông tin từ ảnh invoice, còn rule/script xử lý phần so sánh có logic rõ. Người kiểm thử vẫn review mismatch report trước khi báo lỗi, nên risk AI sai được kiểm soát. Workflow giúp giảm thời gian đối chiếu thủ công mà không trao toàn bộ quyết định cho AI.
 
 ```
 
 **Vì sao không chọn mức đơn giản hơn (2-3 câu):**
 
-```Không chọn chỉ Rule vì rule không đọc được ảnh invoice JPG nếu chưa có dữ liệu ground truth dạng structured data. Rule vẫn hữu ích cho bước compare sau khi OCR/AI đã extract field, nhưng không đủ để giải quyết bottleneck chính là đọc ảnh và đối chiếu với JSON.
+```
+Không chọn chỉ Rule vì rule không đọc được ảnh invoice JPG nếu chưa có dữ liệu ground truth dạng structured data. Rule vẫn hữu ích cho bước compare sau khi OCR/AI đã extract field, nhưng không đủ để giải quyết bottleneck chính là đọc ảnh và đối chiếu với JSON.
 
 ```
 
@@ -311,36 +298,42 @@ Có. Nhóm hạ từ Agent xuống Workflow vì chưa cần tự động hóa to
 
 **Decision:**
 
-```Go với scope nhỏ
+```
+Go với scope nhỏ
 ```
 
 **Lý do (3-4 câu dựa trên bằng chứng):**
 
-```Nhóm quyết định Go với scope nhỏ vì problem có actor, workflow, bottleneck và metric khá rõ. Baseline hiện tại có thể đo bằng thời gian kiểm thử mỗi batch, số field phải đối chiếu và số mismatch bị bỏ sót. Research cho thấy đã có các giải pháp OCR/invoice extraction như AWS Textract, Google Document AI và Azure Document Intelligence, nên nhóm không cần build OCR từ đầu mà chỉ cần thiết kế workflow hỗ trợ compare và review. Vì người kiểm thử vẫn review mismatch report trước khi báo lỗi, rủi ro AI sai có thể kiểm soát được.
+```
+Nhóm quyết định Go với scope nhỏ vì problem có actor, workflow, bottleneck và metric khá rõ. Baseline hiện tại có thể đo bằng thời gian kiểm thử mỗi batch, số field phải đối chiếu và số mismatch bị bỏ sót. Research cho thấy đã có các giải pháp OCR/invoice extraction như AWS Textract, Google Document AI và Azure Document Intelligence, nên nhóm không cần build OCR từ đầu mà chỉ cần thiết kế workflow hỗ trợ compare và review. Vì người kiểm thử vẫn review mismatch report trước khi báo lỗi, rủi ro AI sai có thể kiểm soát được.
 
 ```
 
 **Nếu Go — pilot nhỏ nhất (data nào, chạy tay ra sao, đo 3 số nào):**
 
-```Pilot nhỏ nhất là dùng 3-5 invoice JPG mẫu và JSON output tương ứng. Nhóm chạy bán thủ công: dùng OCR/AI extract các field chính từ ảnh, dùng rule/script hoặc bảng compare để so sánh với JSON, sau đó người test review mismatch report. Ba số cần đo là: tổng thời gian kiểm thử / batch, số mismatch phát hiện được, và số mismatch bị bỏ sót sau khi review lại ảnh gốc.
+```
+Pilot nhỏ nhất là dùng 3-5 invoice JPG mẫu và JSON output tương ứng. Nhóm chạy bán thủ công: dùng OCR/AI extract các field chính từ ảnh, dùng rule/script hoặc bảng compare để so sánh với JSON, sau đó người test review mismatch report. Ba số cần đo là: tổng thời gian kiểm thử / batch, số mismatch phát hiện được, và số mismatch bị bỏ sót sau khi review lại ảnh gốc.
 
 ```
 
 **Nếu Not Yet — cần validate gì trước:**
 
-```Cần validate thêm bằng 3-5 invoice JPG mẫu và JSON output tương ứng để đo thời gian kiểm thử thật. Nhóm cũng cần hỏi 1-2 AI Intern / tester xem workflow hiện tại mất bao lâu, bước nào dễ sai nhất và mismatch nào hay bị bỏ sót.
+```
+Cần validate thêm bằng 3-5 invoice JPG mẫu và JSON output tương ứng để đo thời gian kiểm thử thật. Nhóm cũng cần hỏi 1-2 AI Intern / tester xem workflow hiện tại mất bao lâu, bước nào dễ sai nhất và mismatch nào hay bị bỏ sót.
 
 ```
 
 **Nếu No-Go — làm gì thay AI:**
 
-```Nếu không dùng AI, nhóm có thể dùng checklist field cố định và script compare JSON với ground truth do người test nhập thủ công. Cách này ít rủi ro hơn nhưng vẫn chưa giải quyết tốt bước đọc ảnh invoice JPG.
+```
+Nếu không dùng AI, nhóm có thể dùng checklist field cố định và script compare JSON với ground truth do người test nhập thủ công. Cách này ít rủi ro hơn nhưng vẫn chưa giải quyết tốt bước đọc ảnh invoice JPG.
 
 ```
 
 **Exit / rollback (khi nào dừng AI, quay về cách cũ):**
 
-```Nếu OCR/AI đọc sai nhiều, map sai field thường xuyên hoặc làm người test phải kiểm lại gần như toàn bộ invoice, nhóm sẽ dừng workflow AI và quay về checklist + rule/script compare. Nếu pilot không giảm ít nhất 30% thời gian kiểm thử so với baseline 25-40 phút / batch, nhóm chưa nên tiếp tục mở rộng giải pháp AI.
+```
+Nếu OCR/AI đọc sai nhiều, map sai field thường xuyên hoặc làm người test phải kiểm lại gần như toàn bộ invoice, nhóm sẽ dừng workflow AI và quay về checklist + rule/script compare. Nếu pilot không giảm ít nhất 30% thời gian kiểm thử so với baseline 25-40 phút / batch, nhóm chưa nên tiếp tục mở rộng giải pháp AI.
 
 ```
 
